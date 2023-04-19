@@ -1,0 +1,3 @@
+[submodule "rtl"]
+	path = rtl
+	url = git@github.com:silagokth/drra2-rtl
