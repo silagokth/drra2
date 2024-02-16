@@ -1,3 +1,6 @@
 [submodule "rtl"]
 	path = rtl
 	url = git@github.com:silagokth/drra2-rtl
+[submodule "drra2-syn"]
+	path = syn
+	url = git@github.com:silagokth/drra2-syn
