@@ -4,3 +4,9 @@
 [submodule "syn"]
 	path = syn
 	url = git@github.com:silagokth/drra2-syn
+[submodule "compiler"]
+	path = compiler
+	url = git@github.com:silagokth/vesyla-suite-4.git
+[submodule "pnr"]
+	path = pnr
+	url = git@github.com:silagokth/drra2-pnr
