@@ -10,3 +10,6 @@
 [submodule "pnr"]
 	path = pnr
 	url = git@github.com:silagokth/drra2-pnr
+[submodule "doc"]
+	path = doc 
+	url = git@github.com:silagokth/drra2-doc
