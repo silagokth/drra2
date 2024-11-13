@@ -13,3 +13,6 @@
 [submodule "doc"]
 	path = doc
 	url = git@github.com:silagokth/drra2-doc
+[submodule "tb"]
+	path = tb
+	url = git@github.com:silagokth/drra2-tb.git
